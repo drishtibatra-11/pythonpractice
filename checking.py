@@ -1,0 +1,10 @@
+text="hello python 123"
+print(text.isalpha())
+print(text.isdigit())
+print(text.isalnum())
+print(text.isspace())
+print(text.islower())
+print(text.isupper())
+print(text.isspace())
+print(text.startswith("hello"))
+print(text.endswith("123"))
