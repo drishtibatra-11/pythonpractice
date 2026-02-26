@@ -1,3 +1,4 @@
+#practice
 contacts = {}
 
 while True:
