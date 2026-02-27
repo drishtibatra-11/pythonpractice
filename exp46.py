@@ -1,4 +1,4 @@
-#set operations on fruits
+#set operations on fruits .
 n=int(input("enter number of fruits in each set: "))
 s1=set()
 s2=set()
