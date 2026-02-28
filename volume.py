@@ -1,4 +1,4 @@
-#volume of cone ny lamba function
+#volume of cone ny lamba function.
 import math
 volume=lambda r,h: (1/3)*math.pi*r**2*h
 r=float(input("enter radius: "))
