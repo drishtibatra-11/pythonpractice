@@ -1,4 +1,4 @@
-#9.     Write a program to create two lists and generate a dictionary with keys from list1 and values from list2
+#9.     Write a program to create two lists and generate a dictionary with keys from list1 and values from list2.
 list1 = ["a", "b", "c", "d"]
 list2 = [1, 2, 3, 4]
 
