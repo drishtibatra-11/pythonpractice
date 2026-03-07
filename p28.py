@@ -1,4 +1,4 @@
-#Create a dictionary of n persons where key is name and value is city.
+#Create a dictionary of n persons where key is name and value is city..
 #a) Display all names
 #b) Display all city names
 #c) Display student name and city of all students.
