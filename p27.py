@@ -1,4 +1,4 @@
-#input a list of scores for n students .find the runner up scores
+#input a list of scores for n students .find the runner up scores.
 n=int(input("Enter how many numbers: "))
 scores = list(map(int, input("Enter the scores: ").split()))
 unique_scores = list(set(scores))
