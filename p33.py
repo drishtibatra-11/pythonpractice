@@ -1,4 +1,4 @@
-# Write a program to count and display the number of capital letters in a given string
+# Write a program to count and display the number of capital letters in a given string.
 string = input("Enter a string: ")
 count = 0
 
