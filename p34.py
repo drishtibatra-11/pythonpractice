@@ -1,4 +1,4 @@
-#count total numberof vowels in a given string.
+#count total numberof vowels in a given string..
 string = input("Enter a string: ")
 vowels = "aeiouAEIOU"
 count = 0
