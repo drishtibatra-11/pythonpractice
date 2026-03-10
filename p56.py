@@ -7,3 +7,4 @@ for i in range(n):
         list2.append(int(input("Enter value: ")))
         result_dict = dict(zip(list1, list2))
         print(result_dict)
+        
