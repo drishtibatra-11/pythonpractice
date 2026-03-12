@@ -1,4 +1,4 @@
-#7. Write functions to explain mentioned concepts: a. Keyword argument b. Default argument c. Variable length argument
+#7. Write functions to explain mentioned concepts: a. Keyword argument b. Default argument ..c. Variable length argument
 
 def add(a, b):
     print("Sum =", a + b)
