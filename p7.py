@@ -1,4 +1,4 @@
-# check whether the number is armstrong or not
+# check whether the number is armstrong or not.
 num = int(input("enter a number: "))
 length = len(str(num))
 temp = num
