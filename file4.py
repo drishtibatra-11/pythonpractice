@@ -1,0 +1,15 @@
+f = open("numbers.txt", "w")
+f.write("10\n200\n35\n150\n90\n300\n4000\n2300\n500\n6000\n")
+f.close()
+f = open("numbers.txt", "r")
+nums = list(map(int, f.read().split()))
+f.close()
+print("Maximum:", max(nums))
+average= sum(nums)/len(nums)
+print("average :",average)
+count = 0
+for n in nums:
+    if n > 100:
+        count += 1
+
+print("Numbers greater than 100:", count)
