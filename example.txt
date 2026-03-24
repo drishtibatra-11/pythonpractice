@@ -1,2 +1,2 @@
-this is a sample file for testing os module functions.
-second line of the file.
+hello,python!
+this is a file handling example.
