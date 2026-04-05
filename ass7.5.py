@@ -14,3 +14,8 @@ except Exception as e:
 
 finally:
     print("Program ended")
+    # Close the file if it was opened
+    try:
+        f.close()
+    except:
+        pass
