@@ -1,3 +1,4 @@
+#....
 with open("numbers.txt", "r") as f:
     nums = [int(line.strip()) for line in f]
 
