@@ -1,4 +1,4 @@
-
+#..
 with open("name.txt", "r") as f:
     names = [line.strip() for line in f]
 
