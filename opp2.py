@@ -10,3 +10,4 @@ dog1 = dog("buddy", 3)
 print(dog1.name)
 print(dog1.species)     
 print(dog1.age)  
+#........
