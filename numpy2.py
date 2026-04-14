@@ -1,0 +1,10 @@
+import numpy as np
+arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+print("manual array:", arr)
+rand_arr = np.random.randint(0,100,(4,4,))
+print("random array:", rand_arr)
+print("\ntype of arr:", type(arr))
+print("shape of arr:", arr.shape)
+print("size of arr:", arr.size)
+print("number of dimensions:", arr.ndim)
+print("data type of arr:", arr.dtype)
